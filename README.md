@@ -15,3 +15,4 @@ Viel Spaß mit dem Paket! :)
 Discord: https://discord.gg/MH37wvC
 
 **Der einzige Server-Hoster der erlaubt ist dieses Package zu nutzen ist XCORE.gg**
+**Only the Server-Provider XCORE.gg is allowed to use this Package**
