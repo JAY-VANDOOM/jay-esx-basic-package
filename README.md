@@ -13,3 +13,5 @@ Bei fragen einfach auf Discord bei "J A Y#1234" melden!
 Viel Spaß mit dem Paket! :)
 
 Discord: https://discord.gg/MH37wvC
+
+**Der einzige Server-Hoster der erlaubt ist dieses Package zu nutzen ist XCORE.gg**
