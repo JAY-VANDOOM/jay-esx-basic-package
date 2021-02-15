@@ -16,4 +16,4 @@ Discord: https://discord.gg/MH37wvC
 
 **Der einzige Server-Hoster der erlaubt ist dieses Package zu nutzen ist XCORE.gg**
 
-**The onliest Server-Provider XCORE.gg is allowed to use this Package**
+**The onliest Server-Provider which is allowed to use this Package is XCORE.gg**
