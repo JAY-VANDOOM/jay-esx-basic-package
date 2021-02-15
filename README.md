@@ -1,2 +1,15 @@
 # jay-esx-basic-package
-DE: Hier ein kleines FiveM Server Basispaket es ist als FiveM RP Server Grundlage gedacht. Viel Spaß damit!
+Dies ist eine Anleitung zur Installation des Grundlagen Paketes von Jay viel spaß damit!
+(Alle erhältlichen Dateien sind Open-Source und auffindbar auf Github)
+
+Zuerst den Inhalt von dem Ordner "FTP-Daten" in den "[resources]" Ordner vom Server ziehen!
+
+Anschließend den Inhalt von dem Ordner "SQL-Daten" in die Datenbank hochladen.
+
+Nun die server.cfg aus dem Ordner "SERVER-CFG-Angepasst" durch die bisherige ersetzen.
+
+Bei fragen einfach auf Discord bei "J A Y#1234" melden!
+
+Viel Spaß mit dem Paket! :)
+
+Discord: https://discord.gg/MH37wvC
